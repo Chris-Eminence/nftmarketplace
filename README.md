@@ -1,16 +1,14 @@
-# nftmarketplace
+# nftmarketplace 
 
-A new Flutter project.
+NFT market place is a designed based application that shows the user interface of an NFT market place application
 
-## Getting Started
+Design inspiration from https://www.figma.com/community/file/1212785829702382197
 
-This project is a starting point for a Flutter application.
+snapshot of application.
 
-A few resources to get you started if this is your first Flutter project:
+![dbf0c688993fae7852ed4df01b918eb588abcbba](https://github.com/user-attachments/assets/549517d4-94a9-434a-bb82-610c7758892b)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/user-attachments/assets/fdbd0d94-c099-48e8-af32-457a9c89ec10
+
